@@ -1,5 +1,5 @@
 > [!WARNING] 
-> ![](https://img.shields.io/badge/Project%20Status-Abandoned-red)  
+> ![](https://img.shields.io/badge/Project%20Status-Abandoned-orange)  
 > This project is currently abandoned, if you're looking for an open source HTTP Server with built in SSL/TLS support, feel free to try out [Caddy Server](https://github.com/caddyserver/caddy).
 
 <p align="center">
