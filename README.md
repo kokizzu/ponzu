@@ -1,6 +1,28 @@
-![My friend, "Gotoro"](ponzu-banner.png)
+> [!WARNING] 
+> ![](https://img.shields.io/badge/Project%20Status-Abandoned-red)  
+> This project is currently abandoned, if you're looking for an open source HTTP Server with built in SSL/TLS support, feel free to try out [Caddy Server](https://github.com/caddyserver/caddy).
+
+<p align="center">
+	<a href="https://caddyserver.com">
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/1128849/210187358-e2c39003-9a5e-4dd5-a783-6deb6483ee72.svg">
+			<source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/1128849/210187356-dfb7f1c5-ac2e-43aa-bb23-fc014280ae1f.svg">
+			<img src="https://user-images.githubusercontent.com/1128849/210187356-dfb7f1c5-ac2e-43aa-bb23-fc014280ae1f.svg" alt="Caddy" width="256">
+		</picture>
+	</a>
+	<br>
+	<h3 align="center">a <a href="https://zerossl.com"><img src="https://user-images.githubusercontent.com/55066419/208327323-2770dc16-ec09-43a0-9035-c5b872c2ad7f.svg" height="28" style="vertical-align: -7.7px" valign="middle"></a> project</h3>
+</p>
+
+> [!NOTE] 
+> ![](https://img.shields.io/badge/Maintainers-Wanted-blue)  
+> If you're interested in regularly contributing to Ponzu CMS (with monetary compensation included) - feel free to reach out to us at support@zerossl.com  
+  
+----
 
 # Ponzu
+<img src="ponzu-banner.png" width="256">
+
 [![Current Release](https://img.shields.io/github/release/ponzu-cms/ponzu.svg)](https://github.com/ponzu-cms/ponzu/releases/latest)
 [![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/ponzu-cms/ponzu)
 [![CircleCI Build Status](https://circleci.com/gh/ponzu-cms/ponzu.svg?style=shield)](https://circleci.com/gh/ponzu-cms/ponzu/tree/master)
